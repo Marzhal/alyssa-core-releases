@@ -1,6 +1,6 @@
-# Alyssa Core POS — Releases
+# Alyssa Core App — Releases
 
-Repositorio oficial de distribución pública y actualizaciones automáticas para la aplicación de escritorio **Alyssa Core POS** (TPV Mostrador, Caja de Restaurante, Toma de Pedidos y Comandas).
+Repositorio oficial de distribución pública y actualizaciones automáticas para la aplicación de escritorio **Alyssa Core**.
 
 > Este repositorio solo contiene instaladores compilados y manifiestos de actualización (\latest.json\). El código fuente permanece privado.
 
